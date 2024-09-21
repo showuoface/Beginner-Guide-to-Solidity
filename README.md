@@ -3,7 +3,7 @@
 ## 參與了 DeFiHackLabs x WTF Academy 殘酷共學
 <details>
 
-- [WEB Websit 網址](https://www.wtf.academy/courses)
+- [WTF Websit 網址](https://www.wtf.academy/courses)
 - 使用HackMD當作筆記並進行學習
 
 </details>
