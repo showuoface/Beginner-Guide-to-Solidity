@@ -1,4 +1,4 @@
-#Solidity 小白研究筆記 適合初學者
+# Solidity 小白研究筆記 適合初學者
 
 ## 參與了 DeFiHackLabs x WTF Academy 殘酷共學
 <details>
